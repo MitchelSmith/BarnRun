@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25b255516f7489c48964f7c65f7c4ac6
+timeCreated: 1490029256
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - highScoreText: {instanceID: 0}
+  - hitSomething: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
